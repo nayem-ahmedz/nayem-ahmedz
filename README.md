@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @nayemahmed7k
+- 👋 Hi, I’m @nayem-ahmedz
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning html
+- 🌱 I have learnt HTML, I’m currently learning CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...(will be added soon)
 
 <!---
-nayemahmed7k/nayemahmed7k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+nayem-ahmedz/nayem-ahmedz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
