@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nayem-ahmedz
 - 👀 I’m interested in Web Development
-- 🌱 I have learnt HTML and CSS, I’m currently learning JS
+- 🌱 I have learnt HTML and CSS and JS, I’m currently learning Bootstrap 5
 - 🌱 I am familiar with version controlling system, Git
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...(will be added soon)
