@@ -3,7 +3,7 @@
 - 🌱 I have learnt HTML and CSS and JS, I’m currently learning Bootstrap 5
 - 🌱 I am familiar with version controlling system, Git
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...(will be added soon)
+- 📫 How to reach me? Linkedin http://www.linkedin.com/in/nayem-ahmedz
 
 <!---
 nayem-ahmedz/nayem-ahmedz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
