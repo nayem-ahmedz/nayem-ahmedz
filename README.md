@@ -3,7 +3,9 @@
 - 🌱 I have learnt HTML and CSS and JS, Bootstrap, and I’m currently learning React Js
 - 🌱 I am familiar with version controlling system, Git
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me? Linkedin http://www.linkedin.com/in/nayem-ahmedz
+- 📫 How to reach me?
+- Linkedin http://www.linkedin.com/in/nayem-ahmedz
+- Portfolio https://nayem-ahmedz.netlify.app/
 
 <!---
 nayem-ahmedz/nayem-ahmedz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
