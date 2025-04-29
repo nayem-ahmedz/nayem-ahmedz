@@ -2,9 +2,9 @@
 <h3 align="center">Front-end Web Developer | React JS Enthusiast | CSE Student</h3>
 
 <p align="center">
-  <a href="https://nayem-ahmedz.netlify.app" target="_blank">🌐 Portfolio</a> •
-  <a href="mailto:nayemahmedz@proton.me">📧 Email</a> •
-  <a href="https://linkedin.com/in/nayem-ahmedz" target="_blank">💼 LinkedIn</a>
+  <a href="https://nayem-ahmedz.netlify.app" target="_blank" style="text-decoration:none">🌐 Portfolio</a> •
+  <a href="mailto:nayemahmedz@proton.me" target="_blank" style="text-decoration:none">📧 Email</a> •
+  <a href="https://linkedin.com/in/nayem-ahmedz" target="_blank" style="text-decoration:none">💼 LinkedIn</a>
 </p>
 
 ---
