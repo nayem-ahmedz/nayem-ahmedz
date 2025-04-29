@@ -13,7 +13,7 @@
 💻 Passionate about modern frontend development, especially **React JS**  
 📍 Based in **Sylhet, Bangladesh**  
 🕐 Local Time: UTC +06:00  
-📫 Reach me at: [nayemahmedz@proton.me](mailto:nayemahmedz@proton.me)
+📫 Reach me at: [Send Message](https://nayem-ahmedz.netlify.app/pages/contact)
 
 ---
 
