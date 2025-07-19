@@ -29,19 +29,11 @@
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nayem-ahmedz&show_icons=true&theme=tokyonight" alt="Nayem's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayem-ahmedz&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
 
 ---
 
 ### 🔗 Socials
-- 🌐 Website: [nayem-ahmedz.netlify.app](https://nayem-ahmedz.netlify.app)
+- 🌐 Website: [nayem-ahmed.vercel.app/](https://nayem-ahmed.vercel.app/)
 - 💼 LinkedIn: [in/nayem-ahmedz](https://linkedin.com/in/nayem-ahmedz)
 - 📘 Facebook: [facebook.com/nayemAhmed2z](https://facebook.com/nayemAhmed2z)
 - ▶️ YouTube: [youtube.com/@NayemsCanvas](https://youtube.com/@NayemsCanvas)
