@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi, I'm Nayem Ahmed 👋</h1>
-<h3 align="center">Full-Stack JavaScript Developer | MERN Stack Developer</h3>
+<h3 align="center">Full-Stack JavaScript Developer</h3>
 
 <p align="center">
   <a href="https://nayem-ahmedz.vercel.app" target="_blank">🌐 Portfolio</a> •
@@ -18,7 +18,7 @@
 
 I am Nayem Ahmed, a passionate MERN Stack / Full-Stack JavaScript Developer.  
 I love building clean, fast, and scalable web applications using React, Node.js, Express, and MongoDB.  
-Currently, I’m improving my backend skills, learning advanced Node.js, and building real-world full-stack projects.
+Currently improving my backend skills and building real-world full-stack applications.
 
 📍 **From:** Sylhet, Bangladesh  
 🎓 **Student:** B.Sc in Computer Science & Engineering (CSE)  
@@ -29,10 +29,10 @@ Currently, I’m improving my backend skills, learning advanced Node.js, and bui
 ## 🔥 What I'm Doing Right Now
 
 - 🚀 Exploring **Next.js & backend architectures**  
-- 📦 Building a **full-stack shop management website**  
-- 🧪 Working on real-world MERN apps  
+- 📦 Building a **full-stack shop management system**  
+- 🧪 Working on real-world MERN applications  
 - 🧭 Learning database design & API security  
-- 👨‍🏫 Improving my problem-solving & system design  
+- 👨‍🏫 Improving problem-solving & system design  
 
 ---
 
@@ -55,7 +55,8 @@ Currently, I’m improving my backend skills, learning advanced Node.js, and bui
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Connect with Me  
+*(Only these should be linked — skills stay static)*
 
 <p align="left">
   <a href="https://nayem-ahmedz.vercel.app" target="_blank">
@@ -89,4 +90,4 @@ Currently, I’m improving my backend skills, learning advanced Node.js, and bui
 
 ## ⭐ Thanks for Visiting!
 
-Let’s build something amazing together 🚀  
+Let’s build something amazing together 🚀
