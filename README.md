@@ -85,6 +85,7 @@ Currently improving my backend skills and building real-world full-stack applica
 </p>
 
 ---
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nayem-ahmedz&label=Profile%20views&color=0e75b6&style=flat" alt="nayem-ahmedz" /> </p>
 
 ## ⭐ Thanks for Visiting!
 
