@@ -76,8 +76,8 @@ Currently improving my backend skills and building real-world full-stack applica
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nayem-ahmedz" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api?username=nayem-ahmedz&show_icons=true&theme=default" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nayem-ahmedz" height="180" alt="nayem-ahmedz" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nayem-ahmedz&show_icons=true&locale=en" height="180" alt="nayem-ahmedz" />
 </p>
 
 <p align="center">
