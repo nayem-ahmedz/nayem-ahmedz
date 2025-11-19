@@ -1,43 +1,92 @@
+<!-- Banner -->
+<p align="center">
+  <img src="https://i.ibb.co.com/whL1srHK/github-banner.webp" alt="Nayem Ahmed Banner" />
+</p>
+
 <h1 align="center">Hi, I'm Nayem Ahmed 👋</h1>
-<h3 align="center">Front-end Web Developer | React JS Enthusiast | CSE Student</h3>
+<h3 align="center">Full-Stack JavaScript Developer | MERN Stack Developer</h3>
 
 <p align="center">
-  <a href="https://nayem-ahmed.vercel.app/" target="_blank" style="text-decoration:none">🌐 Portfolio</a> •
-  <a href="mailto:nayemahmedz@proton.me" target="_blank" style="text-decoration:none">📧 Email</a> •
-  <a href="https://linkedin.com/in/nayem-ahmedz" target="_blank" style="text-decoration:none">💼 LinkedIn</a>
+  <a href="https://nayem-ahmedz.vercel.app" target="_blank">🌐 Portfolio</a> •
+  <a href="mailto:nayemahmedz@proton.me" target="_blank">📧 Email</a> •
+  <a href="https://linkedin.com/in/nayem-ahmedz" target="_blank">💼 LinkedIn</a>
 </p>
 
 ---
 
-🎓 Currently pursuing **B.Sc in Computer Science and Engineering** at **Metropolitan University, BD**  
-💻 Passionate about modern frontend development, especially **React JS**  
-📍 Based in **Sylhet, Bangladesh**  
-🕐 Local Time: UTC +06:00  
-📫 Reach me at: [Send Message](https://nayem-ahmed.vercel.app/contact)
+## 👨‍💻 About Me
+
+I am Nayem Ahmed, a passionate MERN Stack / Full-Stack JavaScript Developer.  
+I love building clean, fast, and scalable web applications using React, Node.js, Express, and MongoDB.  
+Currently, I’m improving my backend skills, learning advanced Node.js, and building real-world full-stack projects.
+
+📍 **From:** Sylhet, Bangladesh  
+🎓 **Student:** B.Sc in Computer Science & Engineering (CSE)  
+📬 **Email:** nayemahmedz@proton.me  
 
 ---
 
-### 🛠️ Tech Stack
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+## 🔥 What I'm Doing Right Now
 
+- 🚀 Exploring **Next.js & backend architectures**  
+- 📦 Building a **full-stack shop management website**  
+- 🧪 Working on real-world MERN apps  
+- 🧭 Learning database design & API security  
+- 👨‍🏫 Improving my problem-solving & system design  
 
 ---
 
-### 🔗 Socials
-- 🌐 Website: [nayem-ahmed.vercel.app/](https://nayem-ahmed.vercel.app/)
-- 💼 LinkedIn: [in/nayem-ahmedz](https://linkedin.com/in/nayem-ahmedz)
-- 📘 Facebook: [facebook.com/nayemAhmed2z](https://facebook.com/nayemAhmed2z)
-- ▶️ YouTube: [youtube.com/@NayemsCanvas](https://youtube.com/@NayemsCanvas)
+## 🛠️ Skills & Technologies
+
+### **Frontend**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap" />
+</p>
+
+### **Backend**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,php" />
+</p>
+
+### **Tools & Others**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,linux,vscode" />
+</p>
 
 ---
 
-*Thanks for visiting! Let's build something amazing 🚀*
+## 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://nayem-ahmedz.vercel.app" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vercel" height="40"/>
+  </a>
+  <a href="https://linkedin.com/in/nayem-ahmedz" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+  <a href="mailto:nayemahmedz@proton.me" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+  </a>
+  <a href="https://github.com/nayem-ahmedz" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="40"/>
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nayem-ahmedz" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nayem-ahmedz&show_icons=true&theme=default" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayem-ahmedz&layout=compact" height="170" />
+</p>
+
+---
+
+## ⭐ Thanks for Visiting!
+
+Let’s build something amazing together 🚀  
