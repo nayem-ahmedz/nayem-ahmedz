@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.ibb.co.com/whL1srHK/github-banner.webp" alt="Nayem Ahmed Banner" />
+  <img src="https://nayem-ahmed-test.netlify.app/github%20banner.webp" alt="Nayem Ahmed Banner" />
 </p>
 
 <h1 align="center">Hi, I'm Nayem Ahmed 👋</h1>
@@ -56,8 +56,6 @@ Currently improving my backend skills and building real-world full-stack applica
 ---
 
 ## 🌐 Connect with Me  
-*(Only these should be linked — skills stay static)*
-
 <p align="left">
   <a href="https://nayem-ahmedz.vercel.app" target="_blank">
     <img src="https://skillicons.dev/icons?i=vercel" height="40"/>
