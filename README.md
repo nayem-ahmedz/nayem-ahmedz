@@ -7,7 +7,7 @@
 <h3 align="center">Full-Stack JavaScript Developer</h3>
 
 <p align="center">
-  <a href="https://nayem-ahmedz.vercel.app" target="_blank">🌐 Portfolio</a> •
+  <a href="https://nayem-ahmed.vercel.app" target="_blank">🌐 Portfolio</a> •
   <a href="mailto:nayemahmedz@proton.me" target="_blank">📧 Email</a> •
   <a href="https://linkedin.com/in/nayem-ahmedz" target="_blank">💼 LinkedIn</a>
 </p>
@@ -57,7 +57,7 @@ Currently improving my backend skills and building real-world full-stack applica
 
 ## 🌐 Connect with Me  
 <p align="left">
-  <a href="https://nayem-ahmedz.vercel.app" target="_blank">
+  <a href="https://nayem-ahmed.vercel.app" target="_blank">
     <img src="https://skillicons.dev/icons?i=vercel" height="40"/>
   </a>
   <a href="https://linkedin.com/in/nayem-ahmedz" target="_blank">
