@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://nayem-ahmed-test.netlify.app/github%20banner.webp" alt="Nayem Ahmed Banner" />
+  <img src="https://media.licdn.com/dms/image/v2/D5616AQH1iPDOSYzqEg/profile-displaybackgroundimage-shrink_350_1400/B56Z2woSA7HQAY-/0/1776784843948?e=1778112000&v=beta&t=x2Bje4sQ82rEVrg4bpLw2KwdbGYgfsLg3tFlOKUgTnk" alt="Nayem Ahmed Banner" />
 </p>
 
 <h1 align="center">Hi, I'm Nayem Ahmed 👋</h1>
@@ -16,9 +16,9 @@
 
 ## 👨‍💻 About Me
 
-I am Nayem Ahmed, a passionate MERN Stack / Full-Stack JavaScript Developer.  
-I love building clean, fast, and scalable web applications using React, Node.js, Express, and MongoDB.  
-Currently improving my backend skills and building real-world full-stack applications.
+I am Nayem Ahmed, currently working as a Support Engineer at Appifylab, Sylhet, where I primarily work on a SaaS LMS platform, EzyCourse. In this role, I collaborate with real users and live systems to troubleshoot issues, improve performance, and ensure a smooth and reliable product experience. Alongside my professional work, I am a Full-Stack JavaScript Developer specializing in the MERN stack
+
+Alongside my professional work, I am a Full-Stack JavaScript Developer specializing in the MERN stack. I enjoy building scalable, efficient, and user-friendly web applications, with a strong focus on translating real-world business needs into practical technical solutions.
 
 📍 **From:** Sylhet, Bangladesh  
 🎓 **Student:** B.Sc in Computer Science & Engineering (CSE)  
